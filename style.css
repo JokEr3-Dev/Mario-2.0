@@ -1,0 +1,140 @@
+/* CSS Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+.main-heading {
+    background-color: red;
+    padding: 25px;
+    text-align: center;
+}
+
+div.main-heading h1 {
+    color: white;
+    border: white 4px solid;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 40px;
+    font-size: 30px;
+}
+
+nav img {
+    max-width: 100%;
+    border-bottom: red solid 10px;
+}
+.nav-links {
+    border-top: 10px red solid;
+    background-color: rgb(99, 99, 99);
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+.a1 {
+    color: white;
+    margin-right: 130px;
+    margin-left: 90px;
+    text-decoration: none;
+}
+
+.Mario {
+    text-align: center;
+    margin: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: red;
+    font-size: 40px;
+}
+.h4 {
+    margin: 30px;
+    font-size: 20epx;
+    text-align: justify;
+}
+.today{
+    text-align: center;
+    background-color: lightgray;
+    padding-top: 29px;
+    padding-bottom: 0.5px;
+}
+.email{
+    border-radius: 40px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    border: red solid;
+}
+.footer{
+    background-color: grey;
+    margin-top: 10;
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+.Gallery {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    color: red;
+}
+.image-container {
+    text-align: center;
+}
+.image-container img {
+    width: 35%;
+    margin-top: 10px;
+    margin-bottom: 3px red solid;
+    padding: 10px;
+}
+.friends {
+    text-align: center;
+    color: red;
+    margin: 30px;
+}
+.friends2 {
+    text-align: center;
+    color: black;
+    font-size: 27px;
+}
+.box {
+    background-color: lightgray;
+    margin-right: 1050px;
+    padding-top: 15px;
+    border-radius: 10px;
+    text-align: right center;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+.box2 {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 20px;
+}
+.sub {
+    background-color: red;
+    font-size: 15px;
+    color: white;
+}
+.Luigi1 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+.luigi2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.form {
+    position: absolute;
+    top: 50%;
+    padding: 40px;
+    background-color: lightgray;
+    border-radius: 15px;
+    margin-left: 50px;
+}
